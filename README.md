@@ -2,7 +2,10 @@
 Repositório para engenharia de software
 
 INTEGRANTES DO GRUPO:
-Pedro Henrique Pereira Guimarães - 
-Lucas Alves dos Anjos - 
-Gabriel Vinícius Bispo Gomes - 
-Milena de Fatima Barbosa dos Santos 
+<br>Pedro Henrique Pereira Guimarães - 
+<br>Lucas Alves dos Anjos - 
+<br>Gabriel Vinícius Bispo Gomes - 
+<br>Milena de Fatima Barbosa dos Santos -
+<br>Henrique Soares de Souza - 
+
+
